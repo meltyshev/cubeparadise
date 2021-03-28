@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cubeparadise/static/css/main.16429696.chunk.css",
-    "main.js": "/cubeparadise/static/js/main.e084bc67.chunk.js",
-    "main.js.map": "/cubeparadise/static/js/main.e084bc67.chunk.js.map",
+    "main.js": "/cubeparadise/static/js/main.017cf2ce.chunk.js",
+    "main.js.map": "/cubeparadise/static/js/main.017cf2ce.chunk.js.map",
     "runtime-main.js": "/cubeparadise/static/js/runtime-main.85a22b4f.js",
     "runtime-main.js.map": "/cubeparadise/static/js/runtime-main.85a22b4f.js.map",
     "static/css/2.111f8640.chunk.css": "/cubeparadise/static/css/2.111f8640.chunk.css",
     "static/js/2.44be0aa3.chunk.js": "/cubeparadise/static/js/2.44be0aa3.chunk.js",
     "static/js/2.44be0aa3.chunk.js.map": "/cubeparadise/static/js/2.44be0aa3.chunk.js.map",
     "index.html": "/cubeparadise/index.html",
-    "precache-manifest.10396ad6dd657cd5c096c38b280562ec.js": "/cubeparadise/precache-manifest.10396ad6dd657cd5c096c38b280562ec.js",
+    "precache-manifest.1d85e2d4405fe3bbb29f58365f773f35.js": "/cubeparadise/precache-manifest.1d85e2d4405fe3bbb29f58365f773f35.js",
     "service-worker.js": "/cubeparadise/service-worker.js",
     "static/css/2.111f8640.chunk.css.map": "/cubeparadise/static/css/2.111f8640.chunk.css.map",
     "static/css/main.16429696.chunk.css.map": "/cubeparadise/static/css/main.16429696.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.111f8640.chunk.css",
     "static/js/2.44be0aa3.chunk.js",
     "static/css/main.16429696.chunk.css",
-    "static/js/main.e084bc67.chunk.js"
+    "static/js/main.017cf2ce.chunk.js"
   ]
 }
